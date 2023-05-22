@@ -2,7 +2,7 @@
 // So we don't have ridiculous errors.
 window.onload = function() {
   // Your web app's Firebase configuration
-  var firebaseConfig = {
+ const firebaseConfig = {
   apiKey: "AIzaSyBe11nIzpQtyA1sSaaj4r4YJxfyd6v2BTo",
   authDomain: "t-chat-60bc1.firebaseapp.com",
   projectId: "t-chat-60bc1",
