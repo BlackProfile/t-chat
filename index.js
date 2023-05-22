@@ -3,13 +3,13 @@
 window.onload = function() {
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
-  };
+  apiKey: "AIzaSyBe11nIzpQtyA1sSaaj4r4YJxfyd6v2BTo",
+  authDomain: "t-chat-60bc1.firebaseapp.com",
+  projectId: "t-chat-60bc1",
+  storageBucket: "t-chat-60bc1.appspot.com",
+  messagingSenderId: "762107033826",
+  appId: "1:762107033826:web:a848534d8f15692ced86bb"
+};
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   // This is very IMPORTANT!! We're going to use "db" a lot.
